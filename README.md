@@ -5,5 +5,6 @@
 | 任务 | 内容 | 日期 |
 | --- | --- | --- |
 | [Task1](task1/README.md) | 第四章：ReAct、Plan-and-Solve与Reflection | 2026-11-18 |
+| [Task2](task2/README.md) | 第五章：Coze、Dify、FastGPT与n8n | 2026-11-18 |
 
 教程：[Datawhale Hello-Agents](https://github.com/datawhalechina/hello-agents)
